@@ -38,6 +38,8 @@ https://rudalle.ru/check_image/62e3b31a29f94f12bf5d8879843039e6
 
 3. Сгенерированное фото и запрос, который позволил раскрыть тему.
 
+https://rudalle.ru/check_image/69bd2ddf8af540e682962ef553d6b7db
+
 ## ИИ пишет рассказы 
 
 Используя [генератор ruGPT-3 от Сбербанка](https://russiannlp.github.io/rugpt-demo/) ([подробнее](https://sbercloud.ru/ru/warp/gpt-3)) написать **осмысленный** рассказ объемом около 5000 знаков. 
